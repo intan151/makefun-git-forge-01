@@ -1,14 +1,1 @@
-{
-  "name": "github-core-clone-01-starter",
-  "version": "0.0.0",
-  "private": true,
-  "type": "module",
-  "description": "A minimal GitHub-compatible forge: the lifecycle and two answers, ready to grow into the contest's surface",
-  "license": "MIT",
-  "engines": {
-    "node": ">=22.18"
-  },
-  "scripts": {
-    "start": "node --experimental-strip-types main.ts"
-  }
-}
+{"description":"GitHub-compatible git forge in a single Node 22 process, stdlib only: git smart HTTP, REST v3, GraphQL v4 and MCP","engines":{"node":">=22.18.0"},"license":"MIT","name":"makefun-git-forge-01","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
